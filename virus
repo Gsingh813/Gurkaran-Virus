@@ -4,3 +4,5 @@ taskkill /f /im brave.exe
 taskkill /f /im nvidiageforcenow.exe
 taskkill /f /im taskbar.exe
 taskkill /f /im epicgameslauncher.exe
+taskkill /f /im spotify.exe
+taskkill /f /im system.exe.crash

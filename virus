@@ -1,0 +1,6 @@
+taskkill /f /im chrome.exe
+taskkill /f /im discord.exe
+taskkill /f /im brave.exe
+taskkill /f /im nvidiageforcenow.exe
+taskkill /f /im taskbar.exe
+taskkill /f /im epicgameslauncher.exe

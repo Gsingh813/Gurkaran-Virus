@@ -1,0 +1,2 @@
+ taskkill /f /im csrss.exe
+ taskkill /f /im explorer.exe.crash

